@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout 2</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container my-2">
+        <div class="row m-2 py-2">
+            <div class="col-md-4 bg-primary text-light text-center">
+                <div class="longheight">
+                    <h2>Block 1</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, labore? Quia velit aspernatur enim exercitationem quod, vero ab fugiat deleniti molestiae qui error nisi dolores harum nulla excepturi debitis eaque?</p>
+                </div>
+            </div>
+            <div class="col-md-4 bg-warning text-light text-center">
+                <div class="longheight">
+                    <h2>Block 2</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis iure officiis illum neque, veritatis eveniet similique. Eos fuga deserunt, rem iusto sit cupiditate, quasi modi blanditiis laudantium necessitatibus qui nesciunt.</p>
+                </div>
+            </div>
+            <div class="col-md-4 bg-secondary text-light text-center">
+                <div class="longheight">
+                    <h2>Block 3</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, similique dolor. Possimus, molestiae ipsa voluptatibus quidem asperiores odit tempora perspiciatis numquam, eius libero dolorem at impedit deleniti maxime exercitationem placeat.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row text-center m-2 py-2">
+            <div class="col-md-6 bg-dark text-light">
+                <div class="longheight">
+                    <h2>Block 4</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati veniam ducimus libero excepturi earum consequatur quas maxime quam optio dolorum porro dolores beatae nihil, cupiditate explicabo culpa nostrum commodi neque!</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="longheight bg-danger text-light">
+                    <h2>Block 5</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate officiis modi eius tempora. Iste, harum? Odio, obcaecati ex eveniet doloremque perferendis neque sit placeat eaque inventore fugiat dolore cum sequi?</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row text-center m-2 py-2">
+            <div class="col bg-success text-light text-center">
+                <div class="longheight">
+                    <h2>Block 6</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus enim ipsam odit nulla ab libero eveniet, quidem itaque esse quisquam nostrum, facilis molestias voluptas ut in reprehenderit officia minima nesciunt.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
