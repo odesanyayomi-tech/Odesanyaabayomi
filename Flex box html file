@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox</title>
+    <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+
+</head>
+
+<body>
+
+    <!--Menu-->
+    <header>
+        <div class="flex-container">
+            <div>
+                <h2>Flexbox</h2>
+            </div>
+            <div class="nav">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </header>
+
+
+    <!--Hero-->
+    <section>
+        <div class="hero-container">
+            <div id="flexy">
+                <h1>Understanding Flexbox</h1>
+                <p>This crash course was created by Heros World Technology to help you to learn the basis of flexbox.
+                    Flexbox is a very important and useful tool in CSS.</p>
+            </div>
+            <div>
+                <img src="Images/Real.svg" alt="">
+            </div>
+
+        </div>
+    </section>
+
+
+    <!--Main-->
+    <section>
+        <div class="content">
+            <div class="alignment">
+
+                <div class="icon">
+                
+                    <i class="fa-solid fa-arrow-right"></i>
+
+                </div>
+
+                <div class="up">
+                    <h2>Alignment and space</h2>
+                    <p>A more efficient way to layout, align and distribute space among items in a container.</p>
+                </div>
+            </div>
+
+            <div class="tricky">
+                <div class="icon"><i style='font-size:24px' class='fas'>&#xf337;</i></div>
+                <div class="up">
+                    <h2>Tricky position</h2>
+                    <p>A more efficient way to layout, align and distribute space among items in a container.</p>
+                </div>
+            </div>
+            <div class="responsive">
+                <div class="icon"><i class="fa-solid fa-up-down-left-right"></i></div>
+                <div class="up">
+                    <h2>Responsive design</h2>
+                    <p>A more efficient way to layout, align and distribute space among items in a container.</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
+
+</body>
+
+</html>
