@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project3</title>
+    <link rel="stylesheet" href="project3.css">
+</head>
+<body>
+    <header>
+        <h2>OurLogo</h2>
+        <ul>
+            <li><a href="project3.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+        </ul>
+    </header>
+
+    <section>
+        <h1>Welcome to our site!</h1>
+        <p>We think you enjoy our site. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio, atque quam. Reprehenderit id, error perspiciatis mollitia repellendus earum aperiam nesciunt quasi, explicabo, porro commodi quidem vitae itaque soluta adipisci molestias!</p>
+        <ul>
+            <li><a href="about.html">Learn more</a></li>
+        </ul>
+    </section>
+    
+    <main>
+        <div class="container">
+            <div class="item">
+                <h2>Cool feature #1</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat in dignissimos voluptates id minus molestiae numquam, fugiat maiores officia nobis distinctio odio nostrum, unde quisquam? Incidunt fugiat voluptatem atque quos.</p>
+            </div>
+
+            <div class="item">
+                <h2>Cool feature #2</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur unde accusamus nesciunt accusantium porro et? Ducimus quisquam dolores, ipsam voluptatum perspiciatis fugit adipisci beatae eum, rerum, atque temporibus. Fugit, facilis!</p>
+            </div>
+
+            <div class="item">
+                <h2>Cool feature #3</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At in quisquam aperiam nemo eveniet, earum nam quibusdam quod perferendis incidunt quam accusamus quasi, veniam reiciendis eum! Numquam expedita neque voluptatibus!</p>
+            </div>
+
+            <div class="item">
+                <h2>Cool feature #4</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum veniam placeat iste sapiente nihil corporis, eum eos inventore facere quod dolor repellendus voluptatibus! Dolores assumenda voluptas architecto maxime aliquid numquam.</p>
+            </div>
+
+            <div class="item">
+                <h2>Cool feature #5</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae a quia dolor ducimus maiores hic quasi, blanditiis pariatur! Quam, nam nemo fuga ut nihil consectetur pariatur placeat dolores earum molestias.</p>
+            </div>
+
+            <div class="item">
+                <h2>Cool feature #6</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid eos numquam cupiditate doloremque quis nihil. Esse sed et dicta cupiditate quis ab dolorum a sunt vel consequatur. Nesciunt, reiciendis laborum?</p>
+            </div>
+
+           <!-- <div class="item">
+                <h2>Cool feature #6</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque saepe sed facilis. Consequuntur tempore facilis, rerum quisquam qui esse facere dolor quam quo excepturi molestiae! Nobis sint qui animi placeat?</p>
+            </div>-->
+
+            <div class="item">
+                <h2>Cool feature #7</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas animi perferendis dolore facilis aliquid, inventore dicta nulla quae, blanditiis temporibus esse deleniti amet magnam laudantium a sequi maxime suscipit deserunt.</p>
+            </div>
+
+            <div class="item">
+                <h2>Cool feature #8</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum blanditiis quibusdam in, tempora placeat culpa odio quae unde iure quas consequuntur quod facilis fugiat quo? Laborum reprehenderit corrupti neque voluptatibus!</p>
+            </div>
+
+            <div class="item">
+                <h2>Cool feature #9</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste beatae deserunt delectus reiciendis doloremque sit illo adipisci, iusto quisquam natus aut consectetur doloribus, odio minima! Eius commodi voluptatibus vel quae!</p>
+            </div>
+        </div>
+    </main>
+    
+    <footer>
+        <p>&copy 2026. Frictional Company</p>
+    </footer>
+    
+</body>
+</html>
