@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout 3</title>
+</head>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+<link rel="stylesheet" href="style.css">
+
+<body>
+    <div class="container my-1">
+
+        <div class="row bg-dark text-light p-2 text-center">
+            <div class="col">
+                <div>
+                    <h3>Header</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="row my-2">
+            <div class="col-md-4 text-light text-center">
+                <div class="longheight">
+                    <div class="row">
+                        <div class="col bg-success mb-2">
+                            <div class="shortheight">
+                                <h3>Sub heading 1</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col bg-danger mb-3">
+                            <div class="shortheight">
+                                <h3>Sub heading 2</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 bg-light text-light text-center">
+                <div class="longheight">
+                    <div class="row-md-8 bg-info mb-2">
+                        <div class="col">
+                            <div class="autoheight">
+                                <h3>Sub heading 3</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row-md-4 bg-warning">
+                        <div class="col">
+                            <div class="normalheight">
+                                <h3>Sub heading 4</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row my-3">
+                <div class="col-md-8 bg-success text-light text-center">
+                    <div class="normalheight">
+                        <h3>Images</h3>
+                    </div>
+                </div>
+
+                <div class="col-md-4 bg-info text-light text-center">
+                    <div class="normalheight">
+                        <h3>Messages</h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row my-1">
+                <div class="col bg-dark text-center text-light">
+                    <div>
+                        <h3>Footer</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+
+</html>
